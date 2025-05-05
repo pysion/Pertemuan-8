@@ -10,5 +10,9 @@ class mahasiswa {
 };
 
 int main() {
+    mahasiswa mhs ; //object mhs
+    mhs.nim = 2024;
+    mhs.showNim(); //Member Access Operator
 
+  
 }
